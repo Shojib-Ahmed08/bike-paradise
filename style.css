@@ -1,0 +1,50 @@
+body{
+    /* font-family: 'Poppins', sans-serif; */
+    
+    font-family: 'Playfair Display', serif;
+    
+    
+}
+.header-bg{
+    background-color: #fff0c5a1;
+    height: 800px;
+}
+.bike-height{
+    width: 600px;
+}
+.logo-icon{
+    height: 100px;
+    width: 100px;
+}
+.text-color{
+    color: #0a066c;
+}
+.text-font{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+.bike img{
+    height: 315px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.card-footer-bg{
+    border: none;
+    background-color: #ffffff;
+}
+.icons{
+    height: 150px;
+    border-radius: 1rem;
+    line-height: 20px;
+    box-shadow: 14px 8px 39px 0px #ddd8d8b5;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+/* @media(max-width:688px){
+    .bike-height{
+        width: 400px;
+    }
+    .icons{
+        grid-template-columns: repeat(1, 1fr);
+    }
+} */
